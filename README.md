@@ -1,17 +1,17 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Drug Use and Income
 
 # Introduction
 
 Throughout the the term, you will be working to build up an analysis of a specific research question, detailed below. You will complete several Putting It All Together assignments that ask you to analyze a dataset using the specific tools you have learned. For each assignment, you will report your results in a brief report. The ultimate goal of this set of assignments is a final complete research report on your specific research question. 
 
-## Research Topic: 
+## Research Topic: Drug Use and Income
 
-Describe research topic
+We will use the National Survey of Drug Use and Health to look at the relationship between illegal drug use and income. We also want to know how this relationship varies by gender. Specifically, we will address the following research question:
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. What is the association between a person's income and their likelihood of using illegal drugs? 
+2. Is the relationship between a person's income and their use of illegal drugs different by gender?
 
 ## Technical Details
 
